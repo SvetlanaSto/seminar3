@@ -26,3 +26,5 @@
 `git merge branche_name` - сливает текущую ветку (current) с веткой branch_name (incoming)
 
 ## Домашняя работа 2
+
+Проверка разных видов слияния
